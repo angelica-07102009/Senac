@@ -11,7 +11,9 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 ## Prints do Projeto
 ### Prévia do Projeto
- *(Adicionar print da tela exibindo o nome do aluno, notas, média e situação final)*
+![Imagem](./imagens/nome.png)
+
+
 
 ### Etapas do Projeto
  *(Adicionar print dos prompts solicitando nome e notas)*
