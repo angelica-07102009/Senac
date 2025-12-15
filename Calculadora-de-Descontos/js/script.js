@@ -46,3 +46,8 @@ function calcularValorFinal(){
 }
 
 btn.addEventListener('click', calcularValorFinal);
+<<<<<<< Updated upstream
+=======
+
+
+>>>>>>> Stashed changes
