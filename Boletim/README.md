@@ -11,15 +11,15 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 ## Prints do Projeto
 ### Prévia do Projeto
-![Imagem](./imagens/nome.png)
-
-
+![Imagem](./imagens/resultado.png)
 
 ### Etapas do Projeto
- *(Adicionar print dos prompts solicitando nome e notas)*
-
-
-
+ ![Imagem](./imagens/nome.png)
+ ![Imagem](./imagens/nota-1.png)
+ ![Imagem](./imagens/nota-2.png)
+ ![Imagem](./imagens/nota-3.png)
+ ![Imagem](./imagens/nota-4.png)
+ 
 ## Funcionalidades
 - Solicita o nome do aluno
 - Solicita quatro notas
