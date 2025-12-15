@@ -29,8 +29,7 @@ O projeto foi desenvolvido como parte das atividades do curso Técnico em Inform
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- HTML5  
-- CSS3  
+- HTML5    
 - JavaScript  
 - Git e GitHub  
 - Visual Studio Code  
@@ -54,4 +53,4 @@ Para executar o projeto em seu computador:
 4. No terminal, execute:
 
 ```bash
-git clone https://github.com/seu-usuario/calculadora-de-descontos.git
+https://github.com/angelica-07102009/Senac.git
