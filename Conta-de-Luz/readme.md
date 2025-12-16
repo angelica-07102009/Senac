@@ -10,7 +10,9 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 ## Prints do Projeto
 ### Prévia do Projeto
-> *(Adicionar print da tela exibindo o resultado da conta de luz)*
+![Imagem](./imagens/horas.png)
+![Imagem](./imagens/horas.png)
+![Imagem](./imagens/horas.png)
 
 ### Etapas do Projeto
 > *(Adicionar print dos prompts solicitando consumo e tipo de cliente)*
