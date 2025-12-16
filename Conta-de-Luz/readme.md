@@ -12,13 +12,13 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 ### Prévia do Projeto
 
 -Resultado Residencial:
-![Imagem](./imagens/horas.png)
+![Imagem](./imagens/resultado-residencial.png)
 
 -Resultado Comercial
-![Imagem](./imagens/horas.png)
+![Imagem](./imagens/resultado-comercial.png)
 
 -Resultado 
-![Imagem](./imagens/horas.png)
+![Imagem](./imagens/resultado-industrial.png)
 
 ### Etapas do Projeto
 > *(Adicionar print dos prompts solicitando consumo e tipo de cliente)*
