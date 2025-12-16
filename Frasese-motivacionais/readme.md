@@ -9,11 +9,6 @@ Ele foi desenvolvido como atividade prática do curso Técnico em Informática p
 
 
 ## Prints do Projeto
-### Prévia do Projeto
-> *(Adicionar print da interface com uma frase exibida)*
-
-### Etapas do Projeto
-> *(Adicionar print do botão gerando novas frases)*
 
 
 ## Funcionalidades
