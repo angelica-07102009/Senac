@@ -34,14 +34,14 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 ![Imagem](./imagens/tipo-cliente-residencial.png)
 
 
--Etapas do Comercial:
+-Comercial:
 
 ![Imagem](./imagens/kwh-comercial.png)
 
 ![Imagem](./imagens/tipo-cliente-comercial.png)
 
 
--Etapas do Industrial:
+-Industrial:
 
 ![Imagem](./imagens/kwh-industrial.png)
 
