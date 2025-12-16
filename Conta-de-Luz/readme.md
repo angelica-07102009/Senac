@@ -10,8 +10,14 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 ## Prints do Projeto
 ### Prévia do Projeto
+
+-Resultado Residencial:
 ![Imagem](./imagens/horas.png)
+
+-Resultado Comercial
 ![Imagem](./imagens/horas.png)
+
+-Resultado 
 ![Imagem](./imagens/horas.png)
 
 ### Etapas do Projeto
