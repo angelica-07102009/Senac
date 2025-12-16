@@ -75,7 +75,7 @@ Para executar o projeto em seu computador:
    
 https://github.com/angelica-07102009/Senac.git
 
-👩‍💻 Autor
+## Autor
 
 Maria Angelica 
 
