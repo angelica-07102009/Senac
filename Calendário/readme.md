@@ -60,3 +60,7 @@ https://github.com/angelica-07102009/Senac.git
 ## Autor
 
 Maria Angelica
+
+Curso Técnico em Informática para Internet
+
+Turma de Tecnologia em Informática para Internet (Turno Vespertino) – Senac DF
