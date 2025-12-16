@@ -20,7 +20,7 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 ![Imagem](./imagens/resultado-comercial.png)
 
-- Resultado Industrial: 
+- Industrial: 
 
 ![Imagem](./imagens/resultado-comercial.png)
 
