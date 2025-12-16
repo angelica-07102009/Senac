@@ -60,7 +60,7 @@ Para executar o projeto em seu computador:
 3. Execute o arquivo `index.html` em um navegador
 4. Clique no botão para gerar uma nova frase motivacional
 
----
+
 
 ## 📥 Como Clonar o Projeto
 1. Acesse o repositório no GitHub
