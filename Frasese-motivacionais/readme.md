@@ -63,7 +63,7 @@ Para executar o projeto em seu computador:
 3. Copie o link do repositório
 4. No terminal, execute:
 
-git clone https://github.com/seu-usuario/frases-motivacionais.git
+git clone https://github.com/angelica-07102009/Senac.git
 
 ## Autor
 
