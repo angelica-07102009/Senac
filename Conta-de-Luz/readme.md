@@ -12,11 +12,11 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 ### Prévia do Projeto
 
 
--Resultado Residencial: 
+-Residencial: 
 
 ![Imagem](./imagens/resultado-residencial.png)
 
--Resultado Comercial: 
+-Comercial: 
 
 ![Imagem](./imagens/resultado-comercial.png)
 
@@ -27,7 +27,7 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 
 ### Etapas do Projeto
--Etapas do Resincial:
+-Resincial:
 
 ![Imagem](./imagens/kwh-residencial.png)
 
