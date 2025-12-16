@@ -11,7 +11,7 @@ O projeto foi desenvolvido como parte das atividades do curso Técnico em Inform
 
 ## 🖼️ Prints do Projeto
 ### Prévia do Projeto
-> *(Adicionar print da tela principal com o campo de valor, forma de pagamento e botão calcular)*
+![Imagem](./imagens/final.png)
 
 ### Etapas do Projeto
 > *(Adicionar prints mostrando o resultado do cálculo para cada forma de pagamento)*
