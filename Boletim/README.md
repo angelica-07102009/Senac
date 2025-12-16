@@ -39,6 +39,22 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 - Git e GitHub  
 - Visual Studio Code  
 
+## Melhorias Futuras
+
+- Criar uma interface visual com formulário HTML
+- Adicionar estilização com CSS
+- Validar se as notas digitadas são válidas
+- Permitir calcular boletim de mais de um aluno
+- Exibir os resultados sem uso de prompt
+
+## O que Aprendi
+
+- Uso de variáveis em JavaScript
+- Entrada de dados com prompt
+- Conversão de valores para número
+- Estruturas condicionais (if, else if, else)
+- Cálculo de média
+- Manipulação do DOM para exibição de dados
 
 
 ## Como Rodar o Projeto
@@ -56,7 +72,13 @@ Para executar o projeto em seu computador:
 2. Clique no botão **Code**
 3. Copie o link do repositório
 4. No terminal, execute:
-
- ```bash:
+   
 https://github.com/angelica-07102009/Senac.git
 
+👩‍💻 Autor
+
+Maria Angelica 
+
+Curso Técnico em Informática para Internet 
+
+Turma de Tecnologia em Informática para Internet (Turno Vespertino) – Senac DF
