@@ -9,7 +9,8 @@ Ele foi desenvolvido como atividade prática do curso Técnico em Informática p
 
 
 ## Prints do Projeto
-
+![Imagem](./imagens/tela-inicial.png)
+![Imagem](./imagens/frases.png)
 
 ## Funcionalidades
 - Exibição de frases motivacionais
