@@ -1,6 +1,6 @@
-# 🧮 Calculadora de Descontos
+# Calculadora de Descontos
 
-## 📌 Descrição
+## Descrição
 Este projeto é uma calculadora de descontos desenvolvida com o objetivo de calcular o valor final de um produto de acordo com a forma de pagamento escolhida pelo usuário.
 
 A aplicação resolve o problema de calcular descontos ou acréscimos de forma manual, automatizando o processo e exibindo o valor final e, quando necessário, o valor das parcelas.
@@ -9,7 +9,7 @@ O projeto foi desenvolvido como parte das atividades do curso Técnico em Inform
 
 ---
 
-## 🖼️ Prints do Projeto
+## Prints do Projeto
 ### Prévia do Projeto
 ![Imagem](./imagens/final.png)
 
@@ -18,7 +18,7 @@ O projeto foi desenvolvido como parte das atividades do curso Técnico em Inform
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Entrada do valor do produto
 - Seleção da forma de pagamento
 - Cálculo automático de desconto ou acréscimo
@@ -28,7 +28,7 @@ O projeto foi desenvolvido como parte das atividades do curso Técnico em Inform
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - HTML5    
 - JavaScript  
 - Git e GitHub  
@@ -36,7 +36,7 @@ O projeto foi desenvolvido como parte das atividades do curso Técnico em Inform
 
 ---
 
-## ▶️ Como Rodar o Projeto
+## Como Rodar o Projeto
 Para executar o projeto em seu computador:
 
 1. Baixe ou clone o repositório
@@ -46,7 +46,7 @@ Para executar o projeto em seu computador:
 
 ---
 
-## 📥 Como Clonar o Projeto
+## Como Clonar o Projeto
 1. Acesse o repositório no GitHub
 2. Clique no botão **Code**
 3. Copie o link do repositório
