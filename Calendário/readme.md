@@ -7,11 +7,8 @@ A aplicação resolve o problema de visualizar a data e o horário completos de 
 
 O projeto foi desenvolvido como atividade prática do curso Técnico em Informática para Internet, com foco em manipulação de datas e horários em JavaScript.
 
----
-
 ## Prints do Projeto
-
----
+![Imagem](./imagens/horas.png)
 
 ## Funcionalidades
 - Exibição da data atual
@@ -20,8 +17,6 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 - Formatação da data no padrão brasileiro
 - Uso da API `Intl.DateTimeFormat`
 
----
-
 ## Tecnologias Utilizadas
 - HTML5  
 - CSS3 *(não aplicado neste projeto)*  
@@ -29,7 +24,6 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 - Git e GitHub  
 - Visual Studio Code  
 
----
 
 ## Melhorias Futuras
 
@@ -59,7 +53,6 @@ Para executar o projeto em seu computador:
 3. Execute o arquivo `index.html` em um navegador
 4. A data e a hora serão exibidas automaticamente na tela
 
----
 
 ## Como Clonar o Projeto
 1. Acesse o repositório no GitHub
@@ -68,4 +61,4 @@ Para executar o projeto em seu computador:
 4. No terminal, execute:
 
 ```bash
-git clone https://github.com/seu-usuario/calendario-digital.git
+https://github.com/angelica-07102009/Senac.git
