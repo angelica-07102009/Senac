@@ -43,7 +43,7 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 -Etapas do Industrial:
 
-![Imagem](./imagens/khw-industrial.png)
+![Imagem](./imagens/kwh-industrial.png)
 
 ![Imagem](./imagens/tipo-cliente-industrial.png)
 
