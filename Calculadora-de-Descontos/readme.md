@@ -7,7 +7,7 @@ A aplicação resolve o problema de calcular descontos ou acréscimos de forma m
 
 O projeto foi desenvolvido como parte das atividades do curso Técnico em Informática para Internet, com foco em JavaScript e manipulação do DOM.
 
----
+
 
 ## Prints do Projeto
 ### Prévia do Projeto
@@ -34,7 +34,22 @@ O projeto foi desenvolvido como parte das atividades do curso Técnico em Inform
 - Git e GitHub  
 - Visual Studio Code  
 
----
+## Melhorias Futuras
+
+- Melhorar a interface com mais estilização em CSS
+- Adicionar mais opções de parcelamento
+- Exibir mensagens de erro mais detalhadas
+- Permitir cálculo de desconto personalizado
+- Adaptar o projeto para dispositivos móveis
+
+ ## O que Aprendi
+
+- Manipulação do DOM com JavaScript
+- Uso de eventos (addEventListener)
+- Validação de dados de entrada
+- Cálculo de porcentagens
+- Uso de condicionais (if / else if)
+- Organização de arquivos HTML, CSS e JS
 
 ## Como Rodar o Projeto
 Para executar o projeto em seu computador:
@@ -44,8 +59,6 @@ Para executar o projeto em seu computador:
 3. Execute o arquivo `index.html` em um navegador
 4. Insira o valor do produto, escolha a forma de pagamento e clique em **Calcular**
 
----
-
 ## Como Clonar o Projeto
 1. Acesse o repositório no GitHub
 2. Clique no botão **Code**
@@ -53,3 +66,11 @@ Para executar o projeto em seu computador:
 4. No terminal, execute:
 
 https://github.com/angelica-07102009/Senac.git
+
+## Autor
+
+Angelica
+
+Curso Técnico em Informática para Internet
+
+Turma de Tecnologia em Informática para Internet (Turno ___) – Senac DF
