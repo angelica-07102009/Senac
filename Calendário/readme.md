@@ -1,6 +1,6 @@
-# 📅 Calendário Digital
+# Calendário Digital
 
-## 📌 Descrição
+## Descrição
 Este projeto é um calendário digital desenvolvido com o objetivo de exibir a data e a hora atualizadas em tempo real no formato brasileiro.
 
 A aplicação resolve o problema de visualizar a data e o horário completos de forma automática, sem necessidade de atualização manual da página, utilizando recursos nativos do JavaScript.
@@ -9,16 +9,11 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 ---
 
-## 🖼️ Prints do Projeto
-### Prévia do Projeto
-> *(Adicionar print da tela exibindo a data e a hora completas)*
-
-### Etapas do Projeto
-> *(Adicionar print mostrando a atualização do horário em tempo real)*
+## Prints do Projeto
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Exibição da data atual
 - Exibição do horário em tempo real
 - Atualização automática a cada segundo
@@ -27,7 +22,7 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - HTML5  
 - CSS3 *(não aplicado neste projeto)*  
 - JavaScript  
@@ -36,34 +31,27 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 ---
 
-## 🔮 Melhorias Futuras
+## Melhorias Futuras
 
 - Adicionar estilização com CSS
-
 - Permitir escolha de idioma e formato de data
-
 - Exibir apenas data ou apenas hora
-
 - Criar versão responsiva com layout mais elaborado
 
-## 📚 O que Aprendi
+## O que Aprendi
 
 - Trabalhar com objetos Date em JavaScript
-
 - Atualizar conteúdo em tempo real com setInterval
-
 - Utilizar a API Intl.DateTimeFormat
-
 - Manipular elementos do DOM
-
 - Formatar datas e horários automaticamente
 
-## 👩‍💻 Autor
+## Autor
 
 Angelica
 Curso Técnico em Informática para Internet
 
-## ▶️ Como Rodar o Projeto
+## Como Rodar o Projeto
 Para executar o projeto em seu computador:
 
 1. Baixe ou clone o repositório
@@ -73,7 +61,7 @@ Para executar o projeto em seu computador:
 
 ---
 
-## 📥 Como Clonar o Projeto
+## Como Clonar o Projeto
 1. Acesse o repositório no GitHub
 2. Clique no botão **Code**
 3. Copie o link do repositório
