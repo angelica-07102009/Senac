@@ -16,7 +16,6 @@ O projeto foi desenvolvido como parte das atividades do curso Técnico em Inform
 ### Etapas do Projeto
 > *(Adicionar prints mostrando o resultado do cálculo para cada forma de pagamento)*
 
----
 
 ## Funcionalidades
 - Entrada do valor do produto
@@ -26,7 +25,6 @@ O projeto foi desenvolvido como parte das atividades do curso Técnico em Inform
 - Cálculo do valor das parcelas (2x e 3x)
 - Validação de campos preenchidos
 
----
 
 ## Tecnologias Utilizadas
 - HTML5    
