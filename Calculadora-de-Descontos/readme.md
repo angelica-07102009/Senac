@@ -71,4 +71,4 @@ Angelica
 
 Curso Técnico em Informática para Internet
 
-Turma de Tecnologia em Informática para Internet (Turno ___) – Senac DF
+Turma de Tecnologia em Informática para Internet (Turno Vespertino) – Senac DF
