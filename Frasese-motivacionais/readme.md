@@ -35,3 +35,45 @@ Ele foi desenvolvido como atividade prática do curso Técnico em Informática p
 - Visual Studio Code  
 
 ---
+## Melhorias Futuras
+
+- Adicionar mais frases motivacionais
+- Permitir categorias de frases
+- Melhorar responsividade para diferentes telas
+- Adicionar animações na troca de frases
+- Exibir autor das frases
+
+## O que Aprendi
+
+- Manipulação de arrays em JavaScript
+- Geração de valores aleatórios
+- Uso de eventos com addEventListener
+- Manipulação do DOM
+- Estilização com CSS e fontes externas
+  Organização de arquivos do projeto
+
+  ## ▶️ Como Rodar o Projeto
+Para executar o projeto em seu computador:
+
+1. Baixe ou clone o repositório
+2. Abra a pasta do projeto
+3. Execute o arquivo `index.html` em um navegador
+4. Clique no botão para gerar uma nova frase motivacional
+
+---
+
+## 📥 Como Clonar o Projeto
+1. Acesse o repositório no GitHub
+2. Clique no botão **Code**
+3. Copie o link do repositório
+4. No terminal, execute:
+
+git clone https://github.com/seu-usuario/frases-motivacionais.git
+
+## Autor
+
+Angelica
+
+Curso Técnico em Informática para Internet
+
+Turma de Tecnologia em Informática para Internet (Turno Vespertino) – Senac DF
