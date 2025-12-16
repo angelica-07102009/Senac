@@ -40,11 +40,6 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 - Manipular elementos do DOM
 - Formatar datas e horários automaticamente
 
-## Autor
-
-Angelica
-Curso Técnico em Informática para Internet
-
 ## Como Rodar o Projeto
 Para executar o projeto em seu computador:
 
@@ -60,5 +55,8 @@ Para executar o projeto em seu computador:
 3. Copie o link do repositório
 4. No terminal, execute:
 
-```bash
 https://github.com/angelica-07102009/Senac.git
+
+## Autor
+
+Maria Angelica
