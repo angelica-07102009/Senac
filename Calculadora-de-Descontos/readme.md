@@ -14,8 +14,8 @@ O projeto foi desenvolvido como parte das atividades do curso Técnico em Inform
 ![Imagem](./imagens/final.png)
 
 ### Etapas do Projeto
-> *(Adicionar prints mostrando o resultado do cálculo para cada forma de pagamento)*
-
+![Imagem](./imagens/inicio.png)
+![Imagem](./imagens/valor.png)
 
 ## Funcionalidades
 - Entrada do valor do produto
