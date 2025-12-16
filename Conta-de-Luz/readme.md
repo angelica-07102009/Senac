@@ -27,7 +27,25 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 
 ### Etapas do Projeto
-> *(Adicionar print dos prompts solicitando consumo e tipo de cliente)*
+-Etapas do Resincial:
+
+![Imagem](./imagens/kwh-residencial.png)
+
+![Imagem](./imagens/tipo-cliente-residencial.png)
+
+
+-Etapas do Comercial:
+
+![Imagem](./imagens/kwh-comercial.png)
+
+![Imagem](./imagens/tipo-cliente-comercial.png)
+
+
+-Etapas do Industrial:
+
+![Imagem](./imagens/khw-industrial.png)
+
+![Imagem](./imagens/tipo-cliente-industrial.png)
 
 
 ## Funcionalidades
