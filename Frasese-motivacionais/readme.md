@@ -63,7 +63,7 @@ git clone https://github.com/angelica-07102009/Senac.git
 
 ## Autor
 
-Angelica
+Maria Angelica
 
 Curso Técnico em Informática para Internet
 
