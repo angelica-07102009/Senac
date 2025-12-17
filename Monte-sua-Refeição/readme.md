@@ -10,11 +10,10 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 ## Prints do Projeto
 ### Prévia do Projeto
-> *(Adicionar print da tela inicial com o formulário de escolha da refeição)*
+![Imagem](./imagens/resultado.png)
 
 ### Etapas do Projeto
-> *(Adicionar print do resumo do pedido com o total calculado)*
-
+![Imagem](./imagens/resultado.png)
 
 ## Funcionalidades
 - Seleção de prato principal
