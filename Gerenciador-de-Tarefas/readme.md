@@ -10,11 +10,11 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 ## Prints do Projeto
 ### Prévia do Projeto
-> *(Adicionar print da tela inicial com o formulário e lista vazia)*
+![Imagem](./imagens/tela-inicial.png)
 
 ### Etapas do Projeto
-> *(Adicionar print das tarefas adicionadas em formato de cards)*
-
+![Imagem](./imagens/tela-inicial.png)
+![Imagem](./imagens/tela-inicial.png)
 
 ## Funcionalidades
 - Cadastro de tarefas com título, descrição e prioridade
