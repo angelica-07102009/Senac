@@ -13,8 +13,8 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 ![Imagem](./imagens/tela-inicial.png)
 
 ### Etapas do Projeto
-![Imagem](./imagens/tela-inicial.png)
-![Imagem](./imagens/tela-inicial.png)
+![Imagem](./imagens/tarefas.png)
+![Imagem](./imagens/resultado.png)
 
 ## Funcionalidades
 - Cadastro de tarefas com título, descrição e prioridade
