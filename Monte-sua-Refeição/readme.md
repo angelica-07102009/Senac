@@ -13,7 +13,7 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 ![Imagem](./imagens/pedidos-final.png)
 
 ### Etapas do Projeto
-![Imagem](./imagens/tela-pedidos.png)
+![Imagem](./imagens/tela-de-pedidos.png)
 ![Imagem](./imagens/pedidos.png)
 
 ## Funcionalidades
