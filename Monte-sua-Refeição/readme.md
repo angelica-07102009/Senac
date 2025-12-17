@@ -10,10 +10,11 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 
 ## Prints do Projeto
 ### Prévia do Projeto
-![Imagem](./imagens/resultado.png)
+![Imagem](./imagens/pedidos-final.png)
 
 ### Etapas do Projeto
-![Imagem](./imagens/resultado.png)
+![Imagem](./imagens/tela-pedidos.png)
+![Imagem](./imagens/pedidos.png)
 
 ## Funcionalidades
 - Seleção de prato principal
