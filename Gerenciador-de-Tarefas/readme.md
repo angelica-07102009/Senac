@@ -1,24 +1,22 @@
-# ✅ Gerenciador de Tarefas
+# Gerenciador de Tarefas
 
-## 📌 Descrição
+## Descrição
 Este projeto é um gerenciador de tarefas desenvolvido com o objetivo de permitir o cadastro e a organização de tarefas de forma simples e visual.
 
 A aplicação resolve o problema de anotar e acompanhar tarefas do dia a dia, possibilitando ao usuário informar título, descrição e prioridade, com exibição clara na tela.
 
 O projeto foi desenvolvido como atividade prática do curso Técnico em Informática para Internet, com foco em JavaScript, formulários e manipulação do DOM.
 
----
 
-## 🖼️ Prints do Projeto
+## Prints do Projeto
 ### Prévia do Projeto
 > *(Adicionar print da tela inicial com o formulário e lista vazia)*
 
 ### Etapas do Projeto
 > *(Adicionar print das tarefas adicionadas em formato de cards)*
 
----
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Cadastro de tarefas com título, descrição e prioridade
 - Listagem dinâmica das tarefas cadastradas
 - Exibição das tarefas em formato de cards
@@ -29,7 +27,7 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 - Layout responsivo para diferentes tamanhos de tela
 
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - HTML5  
 - CSS3  
 - JavaScript  
@@ -46,7 +44,7 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 - Melhorar a acessibilidade do layout
 
 
-##📚 O que Aprendi
+## O que Aprendi
 
 - Criação e manipulação de arrays em JavaScript
 - Uso de formulários HTML com JavaScript
@@ -55,7 +53,7 @@ O projeto foi desenvolvido como atividade prática do curso Técnico em Informá
 - Estruturas condicionais (operador ternário)
 - Responsividade com CSS
 
-## ▶️ Como Rodar o Projeto
+## Como Rodar o Projeto
 Para executar o projeto em seu computador:
 
 1. Baixe ou clone o repositório
@@ -63,13 +61,19 @@ Para executar o projeto em seu computador:
 3. Execute o arquivo `index.html` em um navegador
 4. Preencha o formulário e clique em **Adicionar Tarefa**
 
----
 
-## 📥 Como Clonar o Projeto
+## Como Clonar o Projeto
 1. Acesse o repositório no GitHub
 2. Clique no botão **Code**
 3. Copie o link do repositório
 4. No terminal, execute:
 
-```bash
 git clone https://github.com/seu-usuario/gerenciador-de-tarefas.git
+
+## Autor
+
+Maria Angelica
+
+Curso Técnico em Informática para Internet
+
+Turma de Tecnologia em Informática para Internet (Turno Vespertino) – Senac DF
