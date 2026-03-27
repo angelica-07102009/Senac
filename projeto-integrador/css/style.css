@@ -38,6 +38,13 @@ body {
   padding: 2rem;
 }
 
+button#themeToggle {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  background-color: transparent;
+}
+
 #themeToggle img {
   /* border: 10px solid rgba(0, 0, 0, 0.03); */
   background: transparent;
@@ -45,10 +52,10 @@ body {
   border-radius: 100%;
   cursor: pointer;
   font-weight: 600;
-  position: fixed;
+  /*position: fixed;
   right: 10px;
   bottom: 10px;
-  z-index: 99;
+  z-index: 99;*/
   height: 150px;
 }
 
